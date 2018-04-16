@@ -1,0 +1,1 @@
+c:\users\sergio\documents\visual studio 2017\Projects\Authorizaion\AutorizacaoWebAPI\obj\Debug\AutorizacaoWebAPI.csprojResolveAssemblyReference.cache
